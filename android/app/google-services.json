@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727294868537",
+    "project_id": "clubzz-login",
+    "storage_bucket": "clubzz-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727294868537:android:960e8bc753757d71c521e8",
+        "android_client_info": {
+          "package_name": "com.example.first_part_of_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727294868537-9uec9oa7dckqa3id8q4mngo55o1smd2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_part_of_app",
+            "certificate_hash": "6c1abdb3c482bf7fd687a89a9666216e8b18b62c"
+          }
+        },
+        {
+          "client_id": "727294868537-pauasccobjb5f8eatpab8adr4ipvndmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPiLXVnwLm9cCeE4rnCzrRcLXRcZhKCrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727294868537-pauasccobjb5f8eatpab8adr4ipvndmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
